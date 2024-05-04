@@ -1,0 +1,11 @@
+.hero{
+    background: linear-gradient( to left , #2525256d , #000),  url('../../public/hero.jpg') , no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+
+.borderImage{
+    border: 3.5px solid #fff;
+}
