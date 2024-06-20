@@ -3,7 +3,6 @@ import style from './home.module.css'
 import Image from 'next/image'
 import user from '@/public/user.jpg'
 import { Button } from '@/components/ui/button'
-import AboutMe from './AboutMe'
 import { Linkedin, Twitter } from 'lucide-react'
 
 const HomePage = () => {
@@ -31,7 +30,6 @@ const HomePage = () => {
                 </div>
             </div>
             <div>
-                <AboutMe/>
             </div>
         </section>
     )

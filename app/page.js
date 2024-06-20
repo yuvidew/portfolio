@@ -13,7 +13,7 @@ export default function Home() {
         }>
           <SideNavBar width={"w-[20rem]"} />
         </div>
-        <div className="p-1 ">
+        <div className="p-1  w-full">
           <HomePage/>
         </div>
       </div>
