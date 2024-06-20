@@ -38,7 +38,7 @@ const ProjectSection = () => {
 
     return (
         <section className=' h-full w-[97%] m-auto '>
-            <h3 className=' text-[1.5rem] text-stone-400 mt-2 mb-2'>My Project's</h3>
+            <h3 className=' text-[1.5rem] text-stone-400 mt-2 mb-2'>My Projects</h3>
             <Select>
                 <SelectTrigger className="w-[180px]">
                     <SelectValue placeholder="All" className=' bg-black' />
